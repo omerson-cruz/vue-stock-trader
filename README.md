@@ -1,4 +1,5 @@
 # vue-stock-trader
+# created using Vue CLI v4.4.6
 
 ## Project setup
 ```
